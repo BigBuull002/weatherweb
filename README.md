@@ -9,7 +9,7 @@ When you visit this web app, it will first try to get your location by using you
 ### Technologies
 
 - HTML
-- Sass
+- CSS
 - JavaScript
 - IP Geolocation API by [ipbase.com](https://ipbase.com/)
 - OpenWeatherMap API by [openweathermap.org](https://openweathermap.org/)
